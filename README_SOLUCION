@@ -1,0 +1,36 @@
+preguntas solicitadas en la prueba:
+ 
+
+1. Clonar el repositorio.
+
+Respuesta:
+Se realiza clonacion del repocitorio segun lo solicitado, se ejecuta con el comendo git clone.
+
+2. Montar localmente la aplicación.
+
+Respuesta:
+Se ejecuta lo solicitado de montar la aplicacion de manera local con resulado satisfactorio y conexion a la BD.
+
+Revisión estática de código:
+
+Plan de mitigación.
+Respuesta:
+-Se tuvo presente las distintas versiones que puede tener un codigo angular para la mitigacion de riesgo en la hora de ejecucion de codigo o en la creacion del mismo desde cero.
+-Se realiza verificacion de los puntos claves de json, correcta implementaion de los complementos de ejecucion y puesta en servicio de manera adecuada para eun resultado satisfactorio.
+
+Clasificación de falsos positivos.
+
+Respuesta:
+
+-Que en su ejecucion inicial sirviera sin los complementos.
+-El codigo ya venia con las ultimas verisone.
+
+
+Creación de dockerfile y correr con docker-compose
+
+Revisión dinámica de código / pruebas de seguridad / pentesting / test de intrusión:
+
+Plan de mitigación.
+
+Clasificación de falsos positivos.
+
